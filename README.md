@@ -9,7 +9,6 @@ Use SQL queries to extract and analyze data from a database.
 
 ## 📂 Contents
 - `task3_sql_analysis.sql` – SQL script with all queries
-- `screenshots/` – Output screenshots for each query (add manually)
 - `2019-Dec.csv` – Dataset used (450MB CSV file, not included due to size)
 
 ## 🧠 Key Concepts Practiced
